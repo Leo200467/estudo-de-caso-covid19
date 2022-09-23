@@ -1,7 +1,7 @@
 # Estudo de Caso COVID-19
 
 ## Os dados utilizados nesse estudo foram obtidos no site Brasil.io 
-### Link para acesso aos dados https://brasil.io/dataset/covid19/caso_full/ ,  foram utilizados os arquivos 'caso' e 'obito_cartorio'
+### [Link para acesso aos dados](https://brasil.io/dataset/covid19/caso_full/),  foram utilizados os arquivos 'caso' e 'obito_cartorio'
 
 ## Diagrama da Arquitetura
 
