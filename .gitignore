@@ -1,0 +1,5 @@
+*.csv
+terraform-gcp/.terraform
+terraform-gcp/terraform.tfstate
+terraform-gcp/.terraform*
+*.ipynb
